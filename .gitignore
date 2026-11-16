@@ -1,0 +1,8 @@
+# Local CNRPark+EXT dataset (download separately; do not commit).
+/PATCHES/
+/LABELS/
+/CNRPark/
+/CNRPark+EXT.csv
+/CNR-EXT-Patches-150x150.zip*
+/CNRPark-Patches-150x150.zip*
+*.pt
