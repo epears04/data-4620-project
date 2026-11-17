@@ -6,3 +6,8 @@
 /CNR-EXT-Patches-150x150.zip*
 /CNRPark-Patches-150x150.zip*
 *.pt
+
+/CNR-EXT-Patches-150x150
+/splits
+/.venv
+/.DS_Store
